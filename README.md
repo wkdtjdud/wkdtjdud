@@ -3,7 +3,7 @@
 
  
  
- <h1> ようこそ, ここは私の世界です♡</h1>
+ <h1>ようこそ, ここは私の世界です♡</h1>
  
  
 <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> -->
