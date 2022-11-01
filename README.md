@@ -6,6 +6,11 @@
  <h1>ようこそ-!
 ここは私の世界です♡✧</h1>
  
+ <h2>🖤私について-</h2>
+ <h3>° ウェブサイトを勉強しています</h3>
+ <h3>° 3Dスキルを使う</h3>
+ 
+ 
  
 <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> -->
 
