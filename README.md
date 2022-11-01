@@ -10,7 +10,7 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtjdud&layout=Demo&theme=cobalt)
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdtjdud&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdtjdud&show_icons=true&theme=cobalt)
  
  
 
