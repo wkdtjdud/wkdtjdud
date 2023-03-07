@@ -9,4 +9,4 @@
  
  
 
- <h1>My favorite language is Javascript😂😂</h1>
+ <h1>My favorite language is Javascript😂</h1>
