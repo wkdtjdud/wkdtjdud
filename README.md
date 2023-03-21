@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:865DFF,100:F7C8E0&height=300&section=header&text=울지말고커밋해&animation=fadeIn&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:867070,100:F7C8E0&height=300&section=header&text=울지말고커밋해&animation=fadeIn&fontSize=90" />
   
  <div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> 
